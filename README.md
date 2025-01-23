@@ -34,7 +34,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishuvam009&show_icons=true&locale=en" alt="ishuvam009" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=ishuvam009" alt="ishuvam009" /></p>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app?user=ishuvam009" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishuvam009" alt="ishuvam009" /></a> </p>
 
