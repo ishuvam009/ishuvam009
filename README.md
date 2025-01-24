@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Nodejs, Express, React, Graphql, Mongodb, PostgreSQL, JS, TS**
 
-- 🌱 I’m currently learning **Full Stack Development & WEB3**
+- 🌱 I’m currently learning **Full Stack Development & AI**
 
 - 💬 Ask me about **,I am heppy to help**
 
