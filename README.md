@@ -4,7 +4,7 @@
 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]()
 <h1 align="center">Hi 👋, I'm Shuvam Mandal</h1>
-<h3 align="center">A passionate fullstack | WEB3 developer from India</h3>
+<h3 align="center">A passionate fullstack | AI developer from India</h3>
 <img align="right" alt="Coding" width="500" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishuvam009&label=Profile%20views&color=0e75b6&style=flat" alt="ishuvam009" /> </p>
